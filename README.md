@@ -41,10 +41,12 @@ Projek ini merupakan struktur dasar program embedded yang menggunakan FreeRTOS u
 ![WhatsApp Image 2024-10-17 at 20 51 19](https://github.com/user-attachments/assets/bfa2660c-a293-443e-9db4-8b8901da81e8)
 # Video Hardware
 Tampak samping
+
 https://github.com/user-attachments/assets/85de8fd0-4b8c-4aac-8c0e-cda337ef9dfe
 
 
 Tampak depan
+
 https://github.com/user-attachments/assets/ab8f3dcd-3970-4bce-97fe-ab8f60a9c090
 
 
