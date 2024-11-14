@@ -1,7 +1,7 @@
 # Praktikum RTOS - SEMESTER 5 (3 Teknik Komputer A)
 - Triyas Rahmadiyanti (3222600001)
 - Duta Fithra Qolby (3222600003)
-# Task 3 - 
+# EXERCISE 4 - 
 ## Deskripsi Projek
 Berikut ini adalah alur dalam projek kali ini :
 1. Inisialisasi dan Pengaturan Awal:
