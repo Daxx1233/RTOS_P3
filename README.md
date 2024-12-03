@@ -1,7 +1,8 @@
 # Praktikum RTOS - SEMESTER 5 (3 Teknik Komputer A)
 - Triyas Rahmadiyanti (3222600001)
 - Duta Fithra Qolby (3222600003)
-# EXERCISE 4 - 
+# EXERCISE 4 - Gain a good understanding of task behaviour where a priority preemptive scheduling policy is used.
+
 ## Deskripsi Projek
 Berikut ini adalah alur dalam projek kali ini :
 1. Inisialisasi dan Pengaturan Awal:
